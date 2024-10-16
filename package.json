@@ -1,6 +1,6 @@
 {
-  "name": "vue3-perfect-scrollbar",
-  "version": "2.0.0",
+  "name": "@donatix/vue3-perfect-scrollbar",
+  "version": "2.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
