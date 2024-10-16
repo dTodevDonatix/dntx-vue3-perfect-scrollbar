@@ -1,6 +1,6 @@
 {
-  "name": "vue3-perfect-scrollbar",
-  "version": "2.0.0",
+  "name": "@donatix/vue3-perfect-scrollbar",
+  "version": "2.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -36,7 +36,7 @@
     }
   },
   "dependencies": {
-    "perfect-scrollbar": "github:dTodevDonatix/dntx-perfect-scrollbar"
+    "perfect-scrollbar": "github:dTodevDonatix/perfect-scrollbar"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
